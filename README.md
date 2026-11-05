@@ -5,6 +5,9 @@ Autores: iSABELLA MORENO, ANDRES ROJAS
 
 DADASDADASDASDASDAD
 
+<img width="913" height="526" alt="image" src="https://github.com/user-attachments/assets/c26d981a-cba4-4734-b2d8-fcb0cd82428a" />
+
+
 
 
 # USUARIO
